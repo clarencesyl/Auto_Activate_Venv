@@ -9,4 +9,4 @@ os.system('start cmd /k "cd {} & activate"'.format(venv_path))  # Venv folder in
 os.system('start cmd /k "echo ok & {} & cd {} & activate"'.format("d:", venv_path))  # Venv folder in other drive e.g. D: drive.
 
 
-# Written by: Clarence Seah
+# Written by: Clarence Seah.
