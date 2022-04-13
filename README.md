@@ -10,4 +10,4 @@ Automatically opens a command prompt window then changes directory to your venv 
 2. Follow comments in code and make changes accordingly.
 
 ## How To Run
-1. Double-click 'auto_activate_venv.pyw' file.s
+1. Double-click 'auto_activate_venv.pyw' file.
